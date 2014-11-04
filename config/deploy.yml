@@ -1,0 +1,15 @@
+hosting:
+  host: tangletown.locomotivehosting.com
+  api_key: 89608f614b3f116b4c5d3cf6bdbc63a663c68d48
+  ssl: true
+#   # api_key: <your api key here>
+# staging:
+#   host: staging.example.com
+#   email: john@doe.net
+#   password: apassword
+#   # api_key: <your api key here>
+# production:
+#   host: www.example.com
+#   email: john@doe.net
+#   password: apassword
+#   # api_key: <your api key here>
